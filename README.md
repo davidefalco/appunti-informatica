@@ -14,14 +14,15 @@ Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggior
 **CFU corso**: 12
 **Docenti**: Matteo Sereno, Michele Garetto
 **Libro**: Reti di calcolatori e internet - un approccio top-down (autori: James F. Kurose, Keith W. Ross)
-**Capitolo 1**: [introduzione alle reti](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-1-introduzione-alle-reti/introduzione-alle-reti-start-point.html)
-**Capitolo 2**: [livello di applicazione](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-2-livello-di-applicazione/architetture-delle-applicazioni-di-rete-start-point.html)
-**Capitolo 3**: [livello di trasporto](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-3-livello-di-trasporto/livello-di-trasporto-start-point.html)
-**Capitolo 4**: [livello di rete (piano dei dati)](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-4-livello-di-rete-(piano-dei-dati)/livello-di-rete-start-point.html)
-**Capitolo 5**: [livello di rete (piano di controllo)](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-5-livello-di-rete-(piano-di-controllo)/introduzione-start-point.html)
-**Capitolo 6**: [livello di collegamento](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-6-livello-di-collegamento/obiettivi-di-questo-capitolo-start-point.html)
-**Capitolo 7**: (reti mobili e wireless)(https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-7-reti-mobili-e-wireless/introduzione-start-point.html)
+**Capitolo 1**: [introduzione alle reti](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-1-introduzione-alle-reti/introduzione-alle-reti-start-point.html)<br>
+**Capitolo 2**: [livello di applicazione](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-2-livello-di-applicazione/architetture-delle-applicazioni-di-rete-start-point.html)<br>
+**Capitolo 3**: [livello di trasporto](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-3-livello-di-trasporto/livello-di-trasporto-start-point.html)<br>
+**Capitolo 4**: [livello di rete (piano dei dati)](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-4-livello-di-rete-(piano-dei-dati)/livello-di-rete-start-point.html)<br>
+**Capitolo 5**: [livello di rete (piano di controllo)](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-5-livello-di-rete-(piano-di-controllo)/introduzione-start-point.html)<br>
+**Capitolo 6**: [livello di collegamento](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-6-livello-di-collegamento/obiettivi-di-questo-capitolo-start-point.html)<br>
+**Capitolo 7**: [reti mobili e wireless](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-7-reti-mobili-e-wireless/introduzione-start-point.html)
 
 ### Se ti piace il mio lavoro, offrimi un caffè
 <a href="https://www.buymeacoffee.com/hawk033"><img src="/images/bmc-button.png" height=150 width=534></a>
+![[images/pp.png|300]](https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ)
 <a href="https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ"><img src="images/pp.png"></a>
