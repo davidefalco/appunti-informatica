@@ -23,8 +23,6 @@
     font-size: 50px;
 }
 
-
-
 body{
     margin: 0px;
     min-width: 720px;
@@ -71,4 +69,49 @@ body{
     background-color: chocolate;
     margin-left: auto;
     margin-right: auto;
+}
+
+@media only screen and (max-width: 740px) {
+    .container{
+        display: block;
+    }
+
+    .right-sidebar{
+        width: 0%;
+        float: none;
+    }
+
+    .left-sidebar{
+        width: 80%;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banner-coffee{
+        width: 60%;
+        box-shadow: 10px 10px;
+        background-color: chocolate;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .banner-coffee img{
+        width:70%;
+    }
+
+    .content{
+        float: none;
+        width: 90%;
+        margin: auto;
+    }
+
+    p{
+        font-size: 24pt;
+    }
+
+    h3{
+        font-size: 30pt;
+    }
+
 }
