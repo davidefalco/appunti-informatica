@@ -71,7 +71,7 @@ body{
     margin-right: auto;
 }
 
-@media only screen and (max-width: 740px) {
+@media only screen and (max-width: 320px) {
     .container{
         display: block;
     }
