@@ -24,5 +24,5 @@ Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggior
 
 ### Se ti piace il mio lavoro, offrimi un caffè
 <a href="https://www.buymeacoffee.com/hawk033"><img src="/images/bmc-button.png" height=150 width=534></a>
-![[images/pp.png|300]](https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ)
+![[/images/pp.png|300]](https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ)
 <a href="https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ"><img src="images/pp.png"></a>
