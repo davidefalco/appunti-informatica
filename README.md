@@ -13,7 +13,7 @@ Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggior
 ### Reti di elaboratori
 **CFU corso**: 12
 **Docenti**: Matteo Sereno, Michele Garetto
-**Libro**: Reti di calcolatori e internet - un approccio top-down (autori: James F. Kurose, Keith W. Ross)
+**Libro**: Reti di calcolatori e internet - un approccio top-down (autori: James F. Kurose, Keith W. Ross)<br>
 **Capitolo 1**: [introduzione alle reti](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-1-introduzione-alle-reti/introduzione-alle-reti-start-point.html)<br>
 **Capitolo 2**: [livello di applicazione](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-2-livello-di-applicazione/architetture-delle-applicazioni-di-rete-start-point.html)<br>
 **Capitolo 3**: [livello di trasporto](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-3-livello-di-trasporto/livello-di-trasporto-start-point.html)<br>
