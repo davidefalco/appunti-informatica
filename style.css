@@ -108,11 +108,15 @@ body{
     }
 
     p{
-        font-size: 24pt;
+        font-size: 18pt;
+    }
+
+    a{
+        font-size: 18pt;
     }
 
     h3{
-        font-size: 30pt;
+        font-size: 25pt;
     }
 
 }
