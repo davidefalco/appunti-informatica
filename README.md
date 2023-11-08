@@ -11,9 +11,9 @@ Oppure puoi accedere al sito, senza scaricare niente sul tuo computer: [link](ht
 Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggiornati e sistemati, da un punto di vista organizzativo, ma anche ortografico e sintattico. Vi prego di perdonarmi per eventuali errori ortografici e/o grammaticali.
 # Appunti disponibili al momento</h1>
 ### Reti di elaboratori
-**CFU corso**: 12
-**Docenti**: Matteo Sereno, Michele Garetto
-**Libro**: Reti di calcolatori e internet - un approccio top-down (autori: James F. Kurose, Keith W. Ross)
+**CFU corso**: 12<br>
+**Docenti**: Matteo Sereno, Michele Garetto<br>
+**Libro**: Reti di calcolatori e internet - un approccio top-down (autori: James F. Kurose, Keith W. Ross)<br>
 **Capitolo 1**: [introduzione alle reti](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-1-introduzione-alle-reti/introduzione-alle-reti-start-point.html)<br>
 **Capitolo 2**: [livello di applicazione](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-2-livello-di-applicazione/architetture-delle-applicazioni-di-rete-start-point.html)<br>
 **Capitolo 3**: [livello di trasporto](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-3-livello-di-trasporto/livello-di-trasporto-start-point.html)<br>
@@ -23,6 +23,5 @@ Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggior
 **Capitolo 7**: [reti mobili e wireless](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-7-reti-mobili-e-wireless/introduzione-start-point.html)
 
 ### Se ti piace il mio lavoro, offrimi un caffè
-<a href="https://www.buymeacoffee.com/hawk033"><img src="/images/bmc-button.png" height=150 width=534></a>
-![[images/pp.png|300]](https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ)
-<a href="https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ"><img src="images/pp.png"></a>
+<a href="https://www.buymeacoffee.com/hawk033"><img src="/images/bmc-button.png" height=75 width=267></a><br>
+<a href="https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ"><img src="images/pp.png" height=144.5 width=192.5></a>
