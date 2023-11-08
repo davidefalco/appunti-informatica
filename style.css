@@ -16,7 +16,7 @@
 .title{
     position: absolute;
     z-index: 1;
-    top: 90%;
+    top: 80%;
     left: 50%;
     transform: translate(-50%,-92%);
     color: white;
@@ -107,16 +107,15 @@ body{
         margin: auto;
     }
 
-    p{
-        font-size: 18pt;
+    a, p{
+        font-size: 16pt;
     }
 
-    a{
-        font-size: 18pt;
+    h1{
+        font-size: 40px;
     }
 
     h3{
-        font-size: 25pt;
+        font-size: 35px;
     }
-
 }
