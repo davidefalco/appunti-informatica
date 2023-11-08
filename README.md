@@ -11,8 +11,8 @@ Oppure puoi accedere al sito, senza scaricare niente sul tuo computer: [link](ht
 Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggiornati e sistemati, da un punto di vista organizzativo, ma anche ortografico e sintattico. Vi prego di perdonarmi per eventuali errori ortografici e/o grammaticali.
 # Appunti disponibili al momento</h1>
 ### Reti di elaboratori
-**CFU corso**: 12
-**Docenti**: Matteo Sereno, Michele Garetto
+**CFU corso**: 12<br>
+**Docenti**: Matteo Sereno, Michele Garetto<br>
 **Libro**: Reti di calcolatori e internet - un approccio top-down (autori: James F. Kurose, Keith W. Ross)<br>
 **Capitolo 1**: [introduzione alle reti](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-1-introduzione-alle-reti/introduzione-alle-reti-start-point.html)<br>
 **Capitolo 2**: [livello di applicazione](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-2-livello-di-applicazione/architetture-delle-applicazioni-di-rete-start-point.html)<br>
