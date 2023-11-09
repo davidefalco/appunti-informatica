@@ -47,7 +47,7 @@ _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sini
 **CFU corso**: 12<br>
 **Docenti**: Francesco Bergadano<br>
 **Libri**: Sicurezza dei computer e delle reti (William Stallings), Computer and Internet Security - a hands-on approach (Wenliang Du)<br>
-_Per redigere questi appunti (dato il contenuto streminzito delle slide) ho dovuto approfondire gli argomenti su altri testi come: Building Internet Firewalls and Web Security e Network Security Essentials - applications and standards e il libro di reti (citato sopra)_ <br>
+_Per redigere questi appunti (dato il contenuto striminzito delle slide) ho dovuto approfondire gli argomenti su altri testi come: Building Internet Firewalls and Web Security e Network Security Essentials - applications and standards e il libro di reti (citato sopra)_ <br>
 **Parte 00**: [cifrari simmetrici](https://davidefalco.github.io/appunti-informatica/sicurezza/00-cifrari-simmetrici/cifrario-start-point.html)<br>
 **Parte 01**: [DES e AES](https://davidefalco.github.io/appunti-informatica/sicurezza/01-des-e-aes/cifrari-a-flusso-e-cifrari-a-blocchi-start-point.html)<br>
 **Parte 02**: [cifrari asimmetrici](https://davidefalco.github.io/appunti-informatica/sicurezza/02-cifrari-asimmetrici/introduzione-start-point.html)<br>
