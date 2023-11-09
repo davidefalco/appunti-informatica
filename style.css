@@ -44,7 +44,7 @@ body{
     padding-bottom: 5%;
 }
 
-.left-sidebar p {
+.banner-coffee p {
     padding-top: 5%;
     padding-left: 5%;
     padding-right: 5%;
@@ -73,6 +73,26 @@ body{
     background-color:antiquewhite;
     margin-left: auto;
     margin-right: auto;
+}
+
+.banner-changelog{
+    width: 70%;
+    box-shadow: 10px 10px;
+    background-color:antiquewhite;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.banner-changelog p {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: left;
+}
+
+.banner-changelog h3{
+    padding-top: 5px;
+    text-align: center;
 }
 
 .tutorial img[alt="tutorial-1"]{
@@ -125,7 +145,7 @@ body{
         margin-bottom: 20px;
     }
 
-    a, p{
+    a, p, li{
         font-size: 16pt;
     }
 
