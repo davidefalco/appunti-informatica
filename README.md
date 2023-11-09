@@ -16,7 +16,7 @@ Una volta aperti tali link vi troverete di fronte una schermata come quella che 
 - Il riquadro numero 2 serve per aprire/chiudere la sidebar a sinistra.
 - Il riquadro numero 3 serve per aprire/chiudere la sidebar a destra.
 
-![schermata principale](./images/tutorial_1.png)
+![schermata principale](./images/tut_1.png)
 
 La sidebar di sinistra elenca tutti i capitoli nella cartella della materia selezionata. 
 Mentre la sidebar a destra (utlima foto) mostra il grafo tipico di Obsidian. 
@@ -24,7 +24,7 @@ Il grafo fornisce una visuale grafica di come sono collegati i documenti/argomen
 Tra una pagina e un'altra vi imbatterete sicuramente in dei link che vi collegano con altri argomenti.
 La sidebar a destra contiene anche un riassunto dei contenuti della pagina in cui vi trovate.
 
-![sidebar di destra](./images/tutorial_2.png)
+![sidebar di destra](./images/tut_2.png)
 
 ### Degni di nota
 Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggiornati e sistemati, da un punto di vista organizzativo, ma anche ortografico e sintattico. Vi prego di perdonarmi per eventuali errori ortografici e/o grammaticali.

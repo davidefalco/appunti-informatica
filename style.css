@@ -136,4 +136,12 @@ body{
     h3{
         font-size: 35px;
     }
+
+    .tutorial img[alt="tutorial-1"]{
+        width: 100%;
+    }
+    
+    .tutorial img[alt="tutorial-2"]{
+        width: 40%;
+    }
 }
