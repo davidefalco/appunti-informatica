@@ -42,8 +42,8 @@ Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggior
 **Capitolo 7**: [reti mobili e wireless](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-7-reti-mobili-e-wireless/introduzione-start-point.html) <br>
 _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri. All'interno di ogni capitolo sono presenti esercizi (in continuo aggiornamento)._
 
-### Reti di elaboratori
-**CFU corso**: 12<br>
+### Sicurezza
+**CFU corso**: 6<br>
 **Docenti**: Francesco Bergadano<br>
 **Libri**: Sicurezza dei computer e delle reti (William Stallings), Computer and Internet Security - a hands-on approach (Wenliang Du)<br>
 _Per redigere questi appunti (dato il contenuto striminzito delle slide) ho dovuto approfondire gli argomenti su altri testi come: Building Internet Firewalls and Web Security e Network Security Essentials - applications and standards e il libro di reti (citato sopra)_ <br>
