@@ -75,6 +75,14 @@ body{
     margin-right: auto;
 }
 
+.tutorial img[alt="tutorial-1"]{
+    width: 100%;
+}
+
+.tutorial img[alt="tutorial-2"]{
+    width: 40%;
+}
+
 /*@media only screen and (max-width: 768px){
 /*@media only screen and (-webkit-min-device-pixel-ratio: 3.5){*/
 @media all and (max-width: 768px){
