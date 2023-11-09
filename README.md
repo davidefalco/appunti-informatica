@@ -20,7 +20,20 @@ Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggior
 **Capitolo 4**: [livello di rete (piano dei dati)](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-4-livello-di-rete-(piano-dei-dati)/livello-di-rete-start-point.html)<br>
 **Capitolo 5**: [livello di rete (piano di controllo)](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-5-livello-di-rete-(piano-di-controllo)/introduzione-start-point.html)<br>
 **Capitolo 6**: [livello di collegamento](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-6-livello-di-collegamento/obiettivi-di-questo-capitolo-start-point.html)<br>
-**Capitolo 7**: [reti mobili e wireless](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-7-reti-mobili-e-wireless/introduzione-start-point.html)
+**Capitolo 7**: [reti mobili e wireless](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-7-reti-mobili-e-wireless/introduzione-start-point.html) <br>
+_Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri. All'interno di ogni capitolo sono presenti esercizi (in continuo aggiornamento)._
+
+# Appunti disponibili al momento</h1>
+### Reti di elaboratori
+**CFU corso**: 12<br>
+**Docenti**: Francesco Bergadano<br>
+**Libri**: Sicurezza dei computer e delle reti (William Stallings), Computer and Internet Security - a hands-on approach (Wenliang Du)<br>
+_Per redirigere questi appunti (dato il contenuto streminzito delle slide) ho dovuto approfondire gli argomenti su altri testi come: Building Internet Firewalls and Web Security e Network Security Essentials - applications and standards e il libro di reti (citato sopra)_ <br>
+**Parte 00**: [cifrari simmetrici](https://davidefalco.github.io/appunti-informatica/sicurezza/00-cifrari-simmetrici/cifrario-start-point.html)<br>
+**Capitolo 2**: [DES e AES](https://davidefalco.github.io/appunti-informatica/sicurezza/01-des-e-aes/cifrari-a-flusso-e-cifrari-a-blocchi-start-point.html)<br>
+**Capitolo 3**: [cifrari asimmetrici](https://davidefalco.github.io/appunti-informatica/sicurezza/02-cifrari-asimmetrici/introduzione-start-point.html)<br>
+**Capitolo 4**: [computer security e internet security](https://davidefalco.github.io/appunti-informatica/sicurezza/03-network-security-e-software-security/sicurezza-delle-reti-e-dei-software-start-point.html)<br>
+_Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri, tra di esse è disponibile una cartelle "Esami vecchi" in cui sono contenute vecchie domande di esami e possibili soluzioni (da me elaborate, in continuo aggiornamento)._
 
 ### Se ti piace il mio lavoro, offrimi un caffè
 <a href="https://www.buymeacoffee.com/hawk033"><img src="/images/bmc-button.png" height=75 width=267></a><br>

@@ -55,6 +55,11 @@ body{
     float: left;
     width: 50%;
     margin: auto;
+    box-shadow: 10px 10px;
+    background-color:antiquewhite;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 5px;
 }
 
 .right-sidebar{
@@ -65,7 +70,7 @@ body{
 .banner-coffee{
     width: 70%;
     box-shadow: 10px 10px;
-    background-color: chocolate;
+    background-color:antiquewhite;
     margin-left: auto;
     margin-right: auto;
 }
@@ -92,7 +97,7 @@ body{
     .banner-coffee{
         width: 60%;
         box-shadow: 10px 10px;
-        background-color: chocolate;
+        background-color: antiquewhite;
         margin-left: auto;
         margin-right: auto;
     }
@@ -105,6 +110,11 @@ body{
         float: none;
         width: 90%;
         margin: auto;
+        box-shadow: 10px 10px;
+        background-color:antiquewhite;
+        padding: 15px;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 
     a, p{
