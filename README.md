@@ -42,7 +42,6 @@ Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggior
 **Capitolo 7**: [reti mobili e wireless](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-7-reti-mobili-e-wireless/introduzione-start-point.html) <br>
 _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri. All'interno di ogni capitolo sono presenti esercizi (in continuo aggiornamento)._
 
-# Appunti disponibili al momento</h1>
 ### Reti di elaboratori
 **CFU corso**: 12<br>
 **Docenti**: Francesco Bergadano<br>
