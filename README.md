@@ -41,7 +41,7 @@ Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggior
 **Capitolo 6**: [livello di collegamento](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-6-livello-di-collegamento/obiettivi-di-questo-capitolo-start-point.html)<br>
 **Capitolo 7**: [reti mobili e wireless](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-7-reti-mobili-e-wireless/introduzione-start-point.html) <br>
 _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri. All'interno di ogni capitolo sono presenti esercizi (in continuo aggiornamento)._
-
+<hr>
 ### Sicurezza
 **CFU corso**: 6<br>
 **Docenti**: Francesco Bergadano<br>
@@ -52,7 +52,7 @@ _Per redigere questi appunti (dato il contenuto striminzito delle slide) ho dovu
 **Parte 02**: [cifrari asimmetrici](https://davidefalco.github.io/appunti-informatica/sicurezza/02-cifrari-asimmetrici/introduzione-start-point.html)<br>
 **Parte 03**: [computer security e internet security](https://davidefalco.github.io/appunti-informatica/sicurezza/03-network-security-e-software-security/sicurezza-delle-reti-e-dei-software-start-point.html)<br>
 _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri, tra di esse è disponibile una cartelle "Esami vecchi" in cui sono contenute vecchie domande di esami e possibili soluzioni (da me elaborate, in continuo aggiornamento)._
-
+<hr>
 ### Sviluppo applicazioni software (ingegneria del software)
 **CFU corso**: 9<br>
 **Docenti**: Matteo Baldoni, Claudia Picardi (docente di laboratorio)<br>
