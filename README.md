@@ -63,7 +63,7 @@ _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sini
 - [B) Altri requisiti](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/b-altri-requisiti/altri-requisti-start-point.html)
 - [C) Storie utente](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/c-storie-utente/introduzione-start-point.html)
 - [D) Iterazione 1 - Fase di elaborazione](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/d-iterazione-1/requisiti-per-l'iterazione-1-start-point.html)
-- [E) Iterazione 1 - Verso la fase di progettazione](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/e-iterazione-1-verso-la-progettazione/architettura-logica-e-gli-strati-start-point.html) <br><br>
+- [E) Iterazione 1 - Verso la fase di progettazione](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/e-iterazione-1-verso-la-progettazione/architettura-logica-e-gli-strati-start-point.html)
 
 **Parte 02**: [Unified Process: Pattern Grasp e GoF](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/02-pattern-grasp-e-gof/introduzione-start-point.html)<br>
 **Riassunto**: [solo teoria, esclusi GRASP e GoF](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/da-sapere-per-esame.html) <br>
