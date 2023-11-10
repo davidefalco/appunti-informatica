@@ -53,6 +53,21 @@ _Per redigere questi appunti (dato il contenuto striminzito delle slide) ho dovu
 **Parte 03**: [computer security e internet security](https://davidefalco.github.io/appunti-informatica/sicurezza/03-network-security-e-software-security/sicurezza-delle-reti-e-dei-software-start-point.html)<br>
 _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri, tra di esse è disponibile una cartelle "Esami vecchi" in cui sono contenute vecchie domande di esami e possibili soluzioni (da me elaborate, in continuo aggiornamento)._
 
+### Sviluppo applicazioni software (ingegneria del software)
+**CFU corso**: 9<br>
+**Docenti**: Matteo Baldoni, Claudia Picardi (docente di laboratorio)<br>
+**Libri**: Applicare UML e i pattern: analisi e progettazione orientata agli oggetti (Craig Larman)<br>
+**Parte 00**: [Processi per lo sviluppo software](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/00-processi-per-lo-sviluppo-software/processo-software-start-point.html)<br>
+**Parte 01**: Unified Process<br>
+- [A) Iterazione 0 - Analisi dei requisiti](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/a-iterazione-0-analisi-dei-requisiti/unified-process-(up)-start-point.html)
+- [B) ](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/b-altri-requisiti/altri-requisti-start-point.html)
+- [C) ](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/c-storie-utente/introduzione-start-point.html)
+- [D) Iterazione 1 - Fase di elaborazione](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/d-iterazione-1/requisiti-per-l'iterazione-1-start-point.html)
+- [E) Iterazione 1 - Verso la fase di progettazione](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/e-iterazione-1-verso-la-progettazione/architettura-logica-e-gli-strati-start-point.html)
+**Parte 02**: [Unified Process: Pattern Grasp e GoF](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/02-pattern-grasp-e-gof/introduzione-start-point.html)<br>
+**Riassunto**: [solo teoria, esclusi GRASP e GoF](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/da-sapere-per-esame.html)
+_Navigando tra le cartelle di questa materia vi potreste imbattere in due Canvas. In Obsidian i Canvas sono come delle lavagne bianche in cui si possono attaccare delle schede. Una è proprio quelle sul riassunto di teoria, l'altro canvas è una chematizzazione dei pattern (incompleta per i GRASP). <br>Nota: i pattern ci sono tutti sia i GRASP che i GoF, dei GRASP manca solo lo schema riassuntivo. <br>Nota (2): nei canvas potete zoomare (anche tantissimo) con la rotella del mouse o zoomando con le dita sul touchpad (non server CTRL e +/-). Quando il cursore si trova dentro la scheda di vostro interesse basta scrollare normalmente per scorrere all'interno della scheda. Per spostarvi all'interno del canvas basta fare click con il tasto sinistro e spostarvi verso la zona di vostro interesse._
+
 ### Se ti piace il mio lavoro, offrimi un caffè
 <a href="https://www.buymeacoffee.com/hawk033"><img src="/images/bmc-button.png" height=75 width=267></a><br>
 <a href="https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ"><img src="images/pp.png" height=144.5 width=192.5></a>
