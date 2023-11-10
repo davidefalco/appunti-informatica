@@ -60,12 +60,12 @@ _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sini
 **Parte 00**: [Processi per lo sviluppo software](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/00-processi-per-lo-sviluppo-software/processo-software-start-point.html)<br>
 **Parte 01**: Unified Process<br>
 - [A) Iterazione 0 - Analisi dei requisiti](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/a-iterazione-0-analisi-dei-requisiti/unified-process-(up)-start-point.html)
-- [B) ](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/b-altri-requisiti/altri-requisti-start-point.html)
-- [C) ](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/c-storie-utente/introduzione-start-point.html)
+- [B) Altri requisiti](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/b-altri-requisiti/altri-requisti-start-point.html)
+- [C) Storie utente](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/c-storie-utente/introduzione-start-point.html)
 - [D) Iterazione 1 - Fase di elaborazione](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/d-iterazione-1/requisiti-per-l'iterazione-1-start-point.html)
-- [E) Iterazione 1 - Verso la fase di progettazione](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/e-iterazione-1-verso-la-progettazione/architettura-logica-e-gli-strati-start-point.html)
+- [E) Iterazione 1 - Verso la fase di progettazione](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/01-unified-process/e-iterazione-1-verso-la-progettazione/architettura-logica-e-gli-strati-start-point.html) <br>
 **Parte 02**: [Unified Process: Pattern Grasp e GoF](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/02-pattern-grasp-e-gof/introduzione-start-point.html)<br>
-**Riassunto**: [solo teoria, esclusi GRASP e GoF](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/da-sapere-per-esame.html)
+**Riassunto**: [solo teoria, esclusi GRASP e GoF](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/da-sapere-per-esame.html) <br>
 _Navigando tra le cartelle di questa materia vi potreste imbattere in due Canvas. In Obsidian i Canvas sono come delle lavagne bianche in cui si possono attaccare delle schede. Una è proprio quelle sul riassunto di teoria, l'altro canvas è una chematizzazione dei pattern (incompleta per i GRASP). <br>Nota: i pattern ci sono tutti sia i GRASP che i GoF, dei GRASP manca solo lo schema riassuntivo. <br>Nota (2): nei canvas potete zoomare (anche tantissimo) con la rotella del mouse o zoomando con le dita sul touchpad (non server CTRL e +/-). Quando il cursore si trova dentro la scheda di vostro interesse basta scrollare normalmente per scorrere all'interno della scheda. Per spostarvi all'interno del canvas basta fare click con il tasto sinistro e spostarvi verso la zona di vostro interesse._
 
 ### Se ti piace il mio lavoro, offrimi un caffè
