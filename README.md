@@ -96,5 +96,5 @@ _Navigando tra le cartelle di questa materia vi potreste imbattere dei Canvas (m
 
 ### Se ti piace il mio lavoro, offrimi un caffè
 <a href="https://www.buymeacoffee.com/hawk033"><img src="/images/bmc-button.png" height=75 width=267></a><br>
-<a href="https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ"><img src="images/pp.png"></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ"><img src="images/pp.png" height=75 width=243,41></a>
 
