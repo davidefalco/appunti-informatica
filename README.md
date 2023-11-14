@@ -92,7 +92,7 @@ _Navigando tra le cartelle di questa materia vi potreste imbattere in due Canvas
 **Mappa**: [Memoria cache](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/mappa-memoria-cache.html)<br>
 **Domande**: [esempi domande/risposte orale](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/risposte-esempi-di-domande-per-esame-orale.html)<br>
 
-_Navigando tra le cartelle di questa materia vi potreste imbattere dei Canvas (mapper). In Obsidian i Canvas sono come delle lavagne bianche in cui si possono attaccare delle schede. <br>Nota: nei canvas potete zoomare (anche tantissimo) con la rotella del mouse o zoomando con le dita sul touchpad (non serve CTRL e +/-). Quando il cursore si trova dentro la scheda di vostro interesse basta scrollare normalmente per scorrere all'interno della scheda. Per spostarvi all'interno del canvas basta fare click con il tasto sinistro e spostarvi verso la zona di vostro interesse._
+_Navigando tra le cartelle di questa materia vi potreste imbattere dei Canvas (mappe). In Obsidian i Canvas sono come delle lavagne bianche in cui si possono attaccare delle schede. <br>Nota: nei canvas potete zoomare (anche tantissimo) con la rotella del mouse o zoomando con le dita sul touchpad (non serve CTRL e +/-). Quando il cursore si trova dentro la scheda di vostro interesse basta scrollare normalmente per scorrere all'interno della scheda. Per spostarvi all'interno del canvas basta fare click con il tasto sinistro e spostarvi verso la zona di vostro interesse._
 
 ### Se ti piace il mio lavoro, offrimi un caffè
 <a href="https://www.buymeacoffee.com/hawk033"><img src="/images/bmc-button.png" height=75 width=267></a><br>
