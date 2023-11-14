@@ -67,6 +67,14 @@ body{
     float: left;
 }
 
+.right-sidebar img{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 5%;
+}
+
 .banner-coffee{
     width: 70%;
     box-shadow: 10px 10px;
@@ -115,10 +123,10 @@ body{
         display: block;
     }
 
-    .right-sidebar{
+    /*.right-sidebar{
         width: 0%;
         float: none;
-    }
+    }*/
 
     .left-sidebar{
         width: 80%;
@@ -126,6 +134,15 @@ body{
         margin-left: auto;
         margin-right: auto;
     }
+
+    .right-sidebar{
+        width: 80%;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 20px;
+    }
+
 
     .banner-coffee{
         width: 60%;

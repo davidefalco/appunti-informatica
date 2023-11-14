@@ -71,8 +71,30 @@ _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sini
 
 **Parte 02**: [Unified Process: Pattern Grasp e GoF](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/02-pattern-grasp-e-gof/introduzione-start-point.html)<br>
 **Riassunto**: [solo teoria, esclusi GRASP e GoF](https://davidefalco.github.io/appunti-informatica/sviluppo-applicazioni-software/da-sapere-per-esame.html) <br>
+
 _Navigando tra le cartelle di questa materia vi potreste imbattere in due Canvas. In Obsidian i Canvas sono come delle lavagne bianche in cui si possono attaccare delle schede. Una è proprio quelle sul riassunto di teoria, l'altro canvas è una chematizzazione dei pattern (incompleta per i GRASP). <br>Nota: i pattern ci sono tutti sia i GRASP che i GoF, dei GRASP manca solo lo schema riassuntivo. <br>Nota (2): nei canvas potete zoomare (anche tantissimo) con la rotella del mouse o zoomando con le dita sul touchpad (non server CTRL e +/-). Quando il cursore si trova dentro la scheda di vostro interesse basta scrollare normalmente per scorrere all'interno della scheda. Per spostarvi all'interno del canvas basta fare click con il tasto sinistro e spostarvi verso la zona di vostro interesse._
+
+<hr>
+
+### Architettura degli elaboratori
+**CFU corso**: 9 <br>
+**Docenti**: Idilio Drago, Michele Garetto (docente di laboratorio) <br>
+**Libro**: Struttura e progetto di calcolatori (David A. Patterson, John L. Hennessy)</p>
+**Parte 00**: [Codifica dell'informazione](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/00-codifica-dell'informazione/numeri-binari/codifica-dell'informazione-(start-point).html)<br>
+**Parte 01**: [Instruction Set Architecture](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/01-isa-risc-v/prestazioni-di-un-calcolatore-(start-point).html) <br>
+**Parte 02**: [Floating point](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/02-floating-point/introduzione-(start-point).html)
+**Parte 03**: [Logica digitale](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/03-logica-digitale/livello-della-logica-digitale-(start-point).html) <br>
+**Parte 04**: [Il processore RISC-V](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/04-processore-risc-v/struttura-processore-risc-v-(start-point).html)<br>
+**Parte 05**: [Bus e dispositivi di I/O](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/05-bus-e-input-output/bus-(start-point).html)<br>
+**Parte 06**: [Assembler, Loader e Linker](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/06-assembler,-loader-e-linker/assemblatore,-loader-e-dynamic-linker.html)<br>
+**Mappa**: [Compiler, Assembler, Linker e Loader](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/mappa-concettuale-compiler-assembler-linker-loader.html)<br>
+**Mappa**: [Dispositivi di I/O e bus](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/mappa-dispositivi-di-input-output-e-bus.html)<br>
+**Mappa**: [Memoria cache](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/mappa-memoria-cache.html)<br>
+**Domande**: [esempi domande/risposte orale](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/risposte-esempi-di-domande-per-esame-orale.html)<br>
+
+_Navigando tra le cartelle di questa materia vi potreste imbattere dei Canvas (mapper). In Obsidian i Canvas sono come delle lavagne bianche in cui si possono attaccare delle schede. <br>Nota: nei canvas potete zoomare (anche tantissimo) con la rotella del mouse o zoomando con le dita sul touchpad (non serve CTRL e +/-). Quando il cursore si trova dentro la scheda di vostro interesse basta scrollare normalmente per scorrere all'interno della scheda. Per spostarvi all'interno del canvas basta fare click con il tasto sinistro e spostarvi verso la zona di vostro interesse._
 
 ### Se ti piace il mio lavoro, offrimi un caffè
 <a href="https://www.buymeacoffee.com/hawk033"><img src="/images/bmc-button.png" height=75 width=267></a><br>
 <a href="https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ"><img src="images/pp.png" height=144.5 width=192.5></a>
+
