@@ -82,7 +82,7 @@ _Navigando tra le cartelle di questa materia vi potreste imbattere in due Canvas
 **Libro**: Struttura e progetto di calcolatori (David A. Patterson, John L. Hennessy)</p>
 **Parte 00**: [Codifica dell'informazione](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/00-codifica-dell'informazione/numeri-binari/codifica-dell'informazione-(start-point).html)<br>
 **Parte 01**: [Instruction Set Architecture](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/01-isa-risc-v/prestazioni-di-un-calcolatore-(start-point).html) <br>
-**Parte 02**: [Floating point](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/02-floating-point/introduzione-(start-point).html)
+**Parte 02**: [Floating point](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/02-floating-point/introduzione-(start-point).html) <br>
 **Parte 03**: [Logica digitale](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/03-logica-digitale/livello-della-logica-digitale-(start-point).html) <br>
 **Parte 04**: [Il processore RISC-V](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/04-processore-risc-v/struttura-processore-risc-v-(start-point).html)<br>
 **Parte 05**: [Bus e dispositivi di I/O](https://davidefalco.github.io/appunti-informatica/architettura-degli-elaboratori/05-bus-e-input-output/bus-(start-point).html)<br>
