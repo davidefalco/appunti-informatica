@@ -53,6 +53,12 @@ _Per redigere questi appunti (dato il contenuto striminzito delle slide) ho dovu
 **Parte 01**: [DES e AES](https://davidefalco.github.io/appunti-informatica/sicurezza/01-des-e-aes/cifrari-a-flusso-e-cifrari-a-blocchi-start-point.html)<br>
 **Parte 02**: [cifrari asimmetrici](https://davidefalco.github.io/appunti-informatica/sicurezza/02-cifrari-asimmetrici/introduzione-start-point.html)<br>
 **Parte 03**: [computer security e internet security](https://davidefalco.github.io/appunti-informatica/sicurezza/03-network-security-e-software-security/sicurezza-delle-reti-e-dei-software-start-point.html)<br>
+**Mappa**: [cifratura asimmetrica](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-cifratura-asimmetrica.html)<br>
+**Mappa**: [cifratura simmetrica](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-cifratura-simmetrica.html)<br>
+**Mappa**: [firewall](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-firewall.html)<br>
+**Mappa**: [IPsec](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-ipsec.html)<br>
+**Mappa**: [Funzioni di hash e firma elettronica](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-funzioni-di-hash-e-firma-elettronica.html)<br>
+
 _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri, tra di esse è disponibile una cartelle "Esami vecchi" in cui sono contenute vecchie domande di esami e possibili soluzioni (da me elaborate, in continuo aggiornamento)._
 
 <hr>
@@ -97,5 +103,5 @@ _Navigando tra le cartelle di questa materia vi potreste imbattere dei Canvas (m
 ### Se ti piace il mio lavoro, offrimi un caffè
 <a href="https://www.buymeacoffee.com/hawk033"><img src="/images/bmc-button.png" height=75 width=267></a><br>
 <a href="https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ"><img src="images/pp.png" height=75 width=243,41></a>
-<img src="images/satispay.png"/>
+<img src="https://davidefalco.github.io/appunti-informatica/images/satispay.png"/>
 
