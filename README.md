@@ -40,6 +40,9 @@ Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggior
 **Capitolo 5**: [livello di rete (piano di controllo)](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-5-livello-di-rete-(piano-di-controllo)/introduzione-start-point.html)<br>
 **Capitolo 6**: [livello di collegamento](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-6-livello-di-collegamento/obiettivi-di-questo-capitolo-start-point.html)<br>
 **Capitolo 7**: [reti mobili e wireless](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-7-reti-mobili-e-wireless/introduzione-start-point.html) <br>
+**Mappa**: [Mappa riassuntiva capitolo 6](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-capitolo-6.html)<br>
+**Mappa**: [Mappa riassuntiva capitolo 7](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-capitolo-7.html)<br>
+**Mappa**: [Mappa link state e distance vector](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-link-state-distance-vector.html)<br>
 _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri. All'interno di ogni capitolo sono presenti esercizi (in continuo aggiornamento)._
 
 <hr>
@@ -58,6 +61,8 @@ _Per redigere questi appunti (dato il contenuto striminzito delle slide) ho dovu
 **Mappa**: [firewall](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-firewall.html)<br>
 **Mappa**: [IPsec](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-ipsec.html)<br>
 **Mappa**: [Funzioni di hash e firma elettronica](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-funzioni-di-hash-e-firma-elettronica.html)<br>
+**Mappa**: [Buffer Overflow](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-buffer-overflow.html)<br>
+**Mappa**: [XSS, CSRF e SQLi](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-xss,-csrf,-sqli.html)<br>
 
 _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri, tra di esse è disponibile una cartelle "Esami vecchi" in cui sono contenute vecchie domande di esami e possibili soluzioni (da me elaborate, in continuo aggiornamento)._
 
