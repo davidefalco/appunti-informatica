@@ -40,9 +40,9 @@ Gli appunti verranno, per quanto mi è possibile nel tempo, continuamente aggior
 **Capitolo 5**: [livello di rete (piano di controllo)](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-5-livello-di-rete-(piano-di-controllo)/introduzione-start-point.html)<br>
 **Capitolo 6**: [livello di collegamento](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-6-livello-di-collegamento/obiettivi-di-questo-capitolo-start-point.html)<br>
 **Capitolo 7**: [reti mobili e wireless](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/capitolo-7-reti-mobili-e-wireless/introduzione-start-point.html) <br>
-**Mappa**: [Mappa riassuntiva capitolo 6](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-capitolo-6.html)<br>
-**Mappa**: [Mappa riassuntiva capitolo 7](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-capitolo-7.html)<br>
-**Mappa**: [Mappa link state e distance vector](https://davidefalco.github.io/appunti-informatica/sicurezza/mappa-link-state-distance-vector.html)<br>
+**Mappa**: [Mappa riassuntiva capitolo 6](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/mappa-capitolo-6.html)<br>
+**Mappa**: [Mappa riassuntiva capitolo 7](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/mappa-capitolo-7.html)<br>
+**Mappa**: [Mappa link state e distance vector](https://davidefalco.github.io/appunti-informatica/reti-di-elaboratori/mappa-link-state-distance-vector.html)<br>
 _Accedendo a uno dei capitoli qualsiasi, dalla navigazione della sidebar di sinistra, si riesce ad accedere a tutti gli altri. All'interno di ogni capitolo sono presenti esercizi (in continuo aggiornamento)._
 
 <hr>
