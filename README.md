@@ -110,3 +110,6 @@ _Navigando tra le cartelle di questa materia vi potreste imbattere dei Canvas (m
 <a href="https://www.paypal.com/donate/?hosted_button_id=Q9JYH7ECEK8FJ"><img src="images/pp.png" height=75 width=243,41></a><br>
 <img src="https://davidefalco.github.io/appunti-informatica/images/satispay.png"/>
 
+### Risorsa TypeScript in italiano
+
+Per approfondire lo sviluppo di applicazioni web con TypeScript, può essere utile anche [The Concise TypeScript Book in italiano](https://gibbok.github.io/typescript-book/it-it/), una guida gratuita e open source.
